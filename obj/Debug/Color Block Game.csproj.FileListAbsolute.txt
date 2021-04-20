@@ -1,0 +1,9 @@
+C:\Users\sonha\source\repos\Color Block Game\bin\Debug\Color Block Game.exe
+C:\Users\sonha\source\repos\Color Block Game\bin\Debug\Color Block Game.pdb
+C:\Users\sonha\source\repos\Color Block Game\obj\Debug\Color_Block_Game.Form1.resources
+C:\Users\sonha\source\repos\Color Block Game\obj\Debug\Color_Block_Game.Properties.Resources.resources
+C:\Users\sonha\source\repos\Color Block Game\obj\Debug\Color Block Game.csproj.GenerateResource.cache
+C:\Users\sonha\source\repos\Color Block Game\obj\Debug\Color Block Game.csproj.CoreCompileInputs.cache
+C:\Users\sonha\source\repos\Color Block Game\obj\Debug\Color Block Game.exe
+C:\Users\sonha\source\repos\Color Block Game\obj\Debug\Color Block Game.pdb
+C:\Users\sonha\source\repos\Color Block Game\obj\Debug\Color Block Game.csprojAssemblyReference.cache
